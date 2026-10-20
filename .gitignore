@@ -3,3 +3,7 @@ dist/
 .env
 uploads/
 logs/
+node_modules
+dist
+uploads
+logs
